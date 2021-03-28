@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharat-pawar
 - 👀 I’m a C++ developer. data structures, algorithms, design patterns are my area of interest.
-- 🌱 I’m currently learning cloud concepts like GCP, AWS, Kuberneters.
+- 🌱 I’m currently learning cloud concepts and stacks related to GCP, AWS, Kuberneters.
 - 📫 My mail id is bharatn.pawar@gmail.com
 
 <!---
